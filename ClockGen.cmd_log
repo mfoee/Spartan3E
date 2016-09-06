@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "G:/1. School Files/Ryerson/COE758 Workspace/VGA/ClockGen.xst" -ofn "G:/1. School Files/Ryerson/COE758 Workspace/VGA/ClockGen.syr" 

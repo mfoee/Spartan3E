@@ -1,0 +1,1 @@
+vhdtdtfi -prj VGA -o "G:/1. School Files/Ryerson/COE758 Workspace/VGA/vsyncCounter.vhi" -module vsyncCounter -template E:/Xilinx/13.3/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work vsyncCounter.vhd 

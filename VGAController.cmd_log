@@ -1,0 +1,31 @@
+xst -intstyle ise -ifn "G:/1. School Files/Ryerson/COE758 Workspace/VGA/VGAController.xst" -ofn "G:/1. School Files/Ryerson/COE758 Workspace/VGA/VGAController.syr" 
+xst -intstyle ise -ifn "G:/1. School Files/Ryerson/COE758 Workspace/VGA/VGAController.xst" -ofn "G:/1. School Files/Ryerson/COE758 Workspace/VGA/VGAController.syr" 
+xst -intstyle ise -ifn "G:/1. School Files/Ryerson/COE758 Workspace/VGA/VGAController.xst" -ofn "G:/1. School Files/Ryerson/COE758 Workspace/VGA/VGAController.syr" 
+xst -intstyle ise -ifn "G:/1. School Files/Ryerson/COE758 Workspace/VGA/VGAController.xst" -ofn "G:/1. School Files/Ryerson/COE758 Workspace/VGA/VGAController.syr" 
+xst -intstyle ise -ifn "G:/1. School Files/Ryerson/COE758 Workspace/VGA/VGAController.xst" -ofn "G:/1. School Files/Ryerson/COE758 Workspace/VGA/VGAController.syr" 
+xst -intstyle ise -ifn "G:/1. School Files/Ryerson/COE758 Workspace/VGA/VGAController.xst" -ofn "G:/1. School Files/Ryerson/COE758 Workspace/VGA/VGAController.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-5 "VGAController.ngc" VGAController.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o VGAController_map.ncd VGAController.ngd VGAController.pcf 
+par -w -intstyle ise -ol high -t 1 VGAController_map.ncd VGAController.ncd VGAController.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml VGAController.twx VGAController.ncd -o VGAController.twr VGAController.pcf 
+vhdtdtfi -prj VGA -o "G:/1. School Files/Ryerson/COE758 Workspace/VGA/VGAController.vhi" -module VGAController -template E:/Xilinx/13.3/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work vsyncCounter.vhd -lib work hsyncCounter.vhd -lib work VGAController.vhd 
+xst -intstyle ise -ifn "G:/1. School Files/Ryerson/COE758 Workspace/VGA/VGAController.xst" -ofn "G:/1. School Files/Ryerson/COE758 Workspace/VGA/VGAController.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-5 "VGAController.ngc" VGAController.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o VGAController_map.ncd VGAController.ngd VGAController.pcf 
+par -w -intstyle ise -ol high -t 1 VGAController_map.ncd VGAController.ncd VGAController.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml VGAController.twx VGAController.ncd -o VGAController.twr VGAController.pcf 
+xst -intstyle ise -ifn "G:/1. School Files/Ryerson/COE758 Workspace/VGA/VGAController.xst" -ofn "G:/1. School Files/Ryerson/COE758 Workspace/VGA/VGAController.syr" 
+xst -intstyle ise -ifn "G:/1. School Files/Ryerson/COE758 Workspace/VGA/VGAController.xst" -ofn "G:/1. School Files/Ryerson/COE758 Workspace/VGA/VGAController.syr" 
+xst -intstyle ise -ifn "G:/1. School Files/Ryerson/COE758 Workspace/VGA/VGAController.xst" -ofn "G:/1. School Files/Ryerson/COE758 Workspace/VGA/VGAController.syr" 
+xst -intstyle ise -ifn "G:/1. School Files/Ryerson/COE758 Workspace/VGA/VGAController.xst" -ofn "G:/1. School Files/Ryerson/COE758 Workspace/VGA/VGAController.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-5 "VGAController.ngc" VGAController.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o VGAController_map.ncd VGAController.ngd VGAController.pcf 
+par -w -intstyle ise -ol high -t 1 VGAController_map.ncd VGAController.ncd VGAController.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml VGAController.twx VGAController.ncd -o VGAController.twr VGAController.pcf 
+xst -intstyle ise -ifn "G:/1. School Files/Ryerson/COE758 Workspace/VGA/VGAController.xst" -ofn "G:/1. School Files/Ryerson/COE758 Workspace/VGA/VGAController.syr" 
+xst -intstyle ise -ifn "G:/1. School Files/Ryerson/COE758 Workspace/VGA/VGAController.xst" -ofn "G:/1. School Files/Ryerson/COE758 Workspace/VGA/VGAController.syr" 
+xst -intstyle ise -ifn "G:/1. School Files/Ryerson/COE758 Workspace/VGA/VGAController.xst" -ofn "G:/1. School Files/Ryerson/COE758 Workspace/VGA/VGAController.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-5 "VGAController.ngc" VGAController.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o VGAController_map.ncd VGAController.ngd VGAController.pcf 
+par -w -intstyle ise -ol high -t 1 VGAController_map.ncd VGAController.ncd VGAController.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml VGAController.twx VGAController.ncd -o VGAController.twr VGAController.pcf 

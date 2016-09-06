@@ -1,0 +1,5 @@
+set -tmpdir "G:/1. School Files/Ryerson/COE758 Workspace/VGA/xst/projnav.tmp"
+set -xsthdpdir "G:/1. School Files/Ryerson/COE758 Workspace/VGA/xst"
+elaborate
+-ifn ClockGen.prj
+-ifmt mixed

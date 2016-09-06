@@ -1,0 +1,12 @@
+EN vgacontroller NULL "G:/1. School Files/Ryerson/COE758 Workspace/VGA/VGAController.vhd" sub00/vhpl06 1415580887
+AR vsynccounter behavioral "G:/1. School Files/Ryerson/COE758 Workspace/VGA/vsyncCounter.vhd" sub00/vhpl05 1415580884
+EN hsynccounter NULL "G:/1. School Files/Ryerson/COE758 Workspace/VGA/hsyncCounter.vhd" sub00/vhpl02 1415580881
+EN rgbgen NULL "G:/1. School Files/Ryerson/COE758 Workspace/VGA/RGBGen.vhd" sub00/vhpl10 1415575998
+AR clockgen behavioral "G:/1. School Files/Ryerson/COE758 Workspace/VGA/ClockGen.vhd" sub00/vhpl01 1415573006
+EN vgasync NULL "G:/1. School Files/Ryerson/COE758 Workspace/VGA/VGASync.vhd" sub00/vhpl08 1415580885
+AR hsynccounter behavioral "G:/1. School Files/Ryerson/COE758 Workspace/VGA/hsyncCounter.vhd" sub00/vhpl03 1415580882
+AR vgacontroller behavioral "G:/1. School Files/Ryerson/COE758 Workspace/VGA/VGAController.vhd" sub00/vhpl07 1415580888
+EN clockgen NULL "G:/1. School Files/Ryerson/COE758 Workspace/VGA/ClockGen.vhd" sub00/vhpl00 1415573005
+EN vsynccounter NULL "G:/1. School Files/Ryerson/COE758 Workspace/VGA/vsyncCounter.vhd" sub00/vhpl04 1415580883
+AR vgasync behavioral "G:/1. School Files/Ryerson/COE758 Workspace/VGA/VGASync.vhd" sub00/vhpl09 1415580886
+AR rgbgen behavioral "G:/1. School Files/Ryerson/COE758 Workspace/VGA/RGBGen.vhd" sub00/vhpl11 1415575999

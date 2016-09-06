@@ -1,0 +1,4 @@
+vhdl work "vsyncCounter.vhd"
+vhdl work "VGASync.vhd"
+vhdl work "hsyncCounter.vhd"
+vhdl work "VGAController.vhd"
